@@ -10,6 +10,7 @@ on:
 
 jobs:
   build:
+    name: SelHosted - Testando Build
     runs-on: self-hosted
 
     steps:
